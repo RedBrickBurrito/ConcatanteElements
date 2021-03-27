@@ -22,7 +22,7 @@ class Concatenate {
 int main() {
     vector<string> elements;
     int sizeList = 0;
-    cout << "How many elements of the list? " << "\n";
+    cout << "How much elments do you want in the list? " << "\n";
     cin >> sizeList;
     cout << "Introduce the elements: " << "\n";
     string listElements;
